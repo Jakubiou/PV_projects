@@ -1,6 +1,6 @@
-# Moje projekty
+# PV_projects_2025
 
-Tento repozitář slouží jako centrální místo pro odkazy na všechny projekty, které odevzdávám.
+Tento repozitář slouží jako centrální místo pro odkazy na všechny PV projekty.
 
 ## Projekty
 
