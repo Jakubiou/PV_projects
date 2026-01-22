@@ -6,3 +6,4 @@ Tento repozitář slouží jako centrální místo pro odkazy na všechny PV pro
 
 - [File Organizer(Paralerizace)](https://github.com/Jakubiou/File_Organizer.git)
 - [Football_Roster_Finder(Databázový projekt[DAO])](https://github.com/Jakubiou/Football_Roster_Finder.git)
+- [bank-node-collaboration(P2P)](https://github.com/Martin-Pop/bank-node-collaboration.git)
